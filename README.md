@@ -1,2 +1,2 @@
 # angular_1
-Angular 1 exercise
+Angular 1 practice
